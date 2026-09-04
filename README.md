@@ -275,22 +275,6 @@ If you are connected through SSH, make sure you maintain a recovery path before 
 - [ ] 🐧 Debian package
 - [ ] 🚀 Startup service
 
----
-
-## 📁 Project Structure
-
-```text
-portshield-pro/
-│
-├── portshield.py
-├── requirements.txt
-├── README.md
-│
-├── firewall_backup.rules
-│
-└── assets/
-    └── icons/
-```
 
 ---
 
