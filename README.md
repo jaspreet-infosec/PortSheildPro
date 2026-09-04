@@ -316,13 +316,6 @@ PortShield Pro brings essential firewall and network administration tools into o
        PORTSHIELD PRO
 ```
 
----
-
-## 📜 License
-
-Distributed under the license specified in this repository.
-
-See `LICENSE` for details.
 
 ---
 
